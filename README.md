@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/daaaaaniel__bkt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danielsantiagov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@retired6106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cronox808yt" height="30" width="40" /></a>
 <a href="https://discord.gg/shakeweeell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cronox808" height="30" width="40" /></a>
-<a href="https://slat.cc/Nayzen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/slatcc.svg" alt="danielsantiagov" height="30" width="40" /></a>
+<a href="https://slat.cc/Nayzen" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/.svg)" alt="" height="30" width="40" /></a>
 
 
 </p>
