@@ -77,9 +77,9 @@
 
 | 🚀 **Project** | 🛠️ **Description** | 📂 **GitHub Repo** |
 |----------------|--------------------|-------------------|
-| 💸 **Secure Wallet** | A secure digital wallet with login & account management, currency conversion, and savings pockets. | [GitHub Link](https://github.com/DanielSantiagoV/secure-wallet) |
-| 🍞 **Bakery Sales System** | A product management system for bakeries, with modern UI and inventory tracking. | [GitHub Link](https://github.com/DanielSantiagoV/bakery-sales-system) |
-| 🎶 **Music Stats App** | An app that analyzes music data by artist, country, and genre, providing visual reports. | [GitHub Link](https://github.com/DanielSantiagoV/music-stats-app) |
+| 💸 **Secure Wallet** | A secure digital wallet with login & account management, currency conversion, and savings pockets. | [GitHub Link](https://github.com/DanielSantiagoV/Wallet-.git) |
+| 🍞 **Bakery Sales System** | A product management system for bakeries, with modern UI and inventory tracking. | [GitHub Link](https://github.com/DanielSantiagoV/Maison-Du-Pain.git) |
+| 🎶 **Music Stats App** | An app that analyzes music data by artist, country, and genre, providing visual reports. | [GitHub Link](https://github.com/DanielSantiagoV/PhotoCampus.git) |
 
 ---
 
