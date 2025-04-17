@@ -1,4 +1,7 @@
-# 🌟🔥 **Daniel Santiago – Future Dev Star** 🔥🌟
+<p align="center">
+  <h1><u><strong>🌟🔥 Daniel Santiago – Future Dev Rock Star 🔥🌟</strong></u></h1>
+</p>
+
 
 <p align="center">
   <em>“Results speak louder than intentions; success is not declared, it's proven, because true power lies in what you do, not what you say.”</em><br>
