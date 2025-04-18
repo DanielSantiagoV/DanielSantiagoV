@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi 👋, I'm Daniel Santiago – Future Dev Star 🌟🔥</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250" alt="Unicorn dev" />
+  <img src="https://media.tenor.com/kB-Liucd8p4AAAAi/pepega-hackermans.gif" width="250" alt="Unicorn dev" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
 
   <p align="center">
-  <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="35" alt="Animated Dev Daniel" /><em></em><br>
+  <img src="https://media.tenor.com/wHfduIakgccAAAAi/pepoclown-pepe.gif" width="35" alt="Animated Dev Daniel" /><em></em><br>
 </p>
 
 
