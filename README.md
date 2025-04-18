@@ -1,27 +1,47 @@
+<h1 align="center"><b>Hi 👋, I'm Daniel Santiago – Future Dev Star 🌟🔥</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <h1><u><strong>🌟🔥 Daniel Santiago – Future Dev Rock Star 🔥🌟</strong></u></h1>
+  <img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="250" alt="Unicorn dev" />
 </p>
 
-
 <p align="center">
-  <em>“Results speak louder than intentions; success is not declared, it's proven, because true power lies in what you do, not what you say.”</em><br>
+  <em>"Results speak louder than intentions; success is not declared, it's proven. True power lies in what you do, not what you say."</em><br>
   <b>– 건초어 & Unknown</b>
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1193699889687842917/1207412789421936701/image0.gif" width="300" alt="Animated Dev Daniel" />
+
+  <p align="center">
+  <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="35" alt="Animated Dev Daniel" /><em></em><br>
 </p>
 
----
 
-## 🎮 **About Me - Who Am I?**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; 🎮 **About Me - Who Am I?**
 
 - 🧑‍🎓 **Daniel Santiago**, **18 years old** – currently studying at **Campusland** 🎓
 - 💼 **Business School Graduate**, **Certified Accounting Assistant** 📑
-- 💻 **Software Developer** passionate about **Python**, **AI**, and **cybersecurity** 🌐
-- 🎮 **Gamer at heart** 🎮: Addicted to **Fortnite**, **CS:GO**, and **Valorant** 🕹️
-- 🌱 Constantly **learning** new skills, evolving through challenges, and building **innovative solutions** 🚀
-- ✨ **Dream big, build bigger** – one line of code at a time! 💥
+- 💻 **Software Developer** passionate about **Python**, **AI**, and **Cybersecurity** 🧠
+- 🎮 **Gamer at heart**: Obsessed with **Fortnite**, **CS:GO**, and **Valorant** 🕹️
+- ✨ I’m here to **build** not just projects, but a **legacy** 🚀
+- 🌱 Always **learning**, breaking limits and chasing mastery 🧗
+
+---
+
+## 🖤 **Do You Want to Know My Story?** 👀📖
+
+<p align="center">
+  <img src="https://media.tenor.com/VwZrffqyb-oAAAAi/evil-pepe-pepe-evil.gif" width="350" />
+
+
+📥 [Download full version (story.txt)](https://drive.google.com/file/d/1s0P0jbpqjo3upw23eglgUheFbk8xF1A9/view?usp=sharing)
+</p>
+
+
+> 🧠 I come from a place where few choose this path.  
+> 💥 I chose code over comfort.  
+> 🕶️ I didn’t follow the trend – I **became the spark**.  
+> 📈 Every repo I create, every line of code I write, is **part of my grind**, my **ambition**, my **fire**.  
+> 🧩 Want to know more? Watch me build the future... one commit at a time.  
 
 ---
 
@@ -30,12 +50,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santiago-portfolio)
 [![Instagram](https://img.shields.io/badge/@daaaaaniel_bkt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daaaaaniel_bkt)
 [![Discord](https://img.shields.io/badge/shakeweeell-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/shakeweeell)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-Orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-profile-link)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-Orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://slat.cc/Nayzen)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
 
 ---
 
-## 📄 **My CV** (Download PDF)
+## 📄 **My CV** (Download PDF) 
 
 [**Download my CV here**](https://drive.google.com/file/d/19FAVPcQY6RL8GVmntVgRAvJvKiE_EOWu/view?usp=drive_link) 📝
 
@@ -73,6 +93,15 @@
 
 ---
 
+## 💡 **GitHub Badges & Stats** 🔥
+
+![Followers](https://img.shields.io/github/followers/danielsantiagov?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/danielsantiagov?label=Stars&style=social)
+![Commits](https://img.shields.io/github/commit-activity/y/danielsantiagov?label=Commits&color=orange)
+![Repos](https://img.shields.io/badge/Public_Repos-30-green?style=flat-square&logo=github)
+
+---
+
 ## 🔥 **Projects in Progress** 🔥
 
 | 🚀 **Project** | 🛠️ **Description** | 📂 **GitHub Repo** |
@@ -86,16 +115,16 @@
 ## 🧩 **Featured Repositories** 💡
 
 - 💻 **[Tech Blog](https://github.com/DanielSantiagoV/tech-blog)** - A blog where I share my coding experiences and tutorials. 
-- 🧩 **[AI Chatbot](https://github.com/DanielSantiagoV/ai-chatbot)** - A project using AI to create an interactive chatbot.
-  
+- 🧠 **[AI Chatbot](https://github.com/DanielSantiagoV/ai-chatbot)** - A project using AI to create an interactive chatbot.
+
 ---
 
 ## 🌟 **Hobbies and Fun Facts** 🎮
 
 - 🎮 **Gaming** is my passion: Always up for a round of **Fortnite**, **CS:GO**, or **Valorant**.
-- 🧸 **Photography**: I love capturing moments of beauty with my camera 📸.
-- 🌍 **Travelling**: I dream of exploring different countries and cultures ✈️.
-- 🍔 **Foodie**: Always up for trying new dishes, especially **street food** 🌮🍣.
+- 📸 **Photography**: I love capturing moments of beauty through my lens.
+- 🌍 **Travelling**: I dream of exploring different countries and cultures.
+- 🍔 **Foodie**: Always ready to discover the next best street food.
 
 ---
 
