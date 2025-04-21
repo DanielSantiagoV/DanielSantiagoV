@@ -29,10 +29,6 @@
 
 ## 🖤 **Do You Want to Know My Story?** 👀📖
 
-<p align="center">
-  <img src="https://media.tenor.com/VwZrffqyb-oAAAAi/evil-pepe-pepe-evil.gif" width="350" />
-
-
 📥 [Download full version (story.txt)](https://drive.google.com/file/d/1s0P0jbpqjo3upw23eglgUheFbk8xF1A9/view?usp=sharing)
 </p>
 
