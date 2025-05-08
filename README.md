@@ -92,9 +92,7 @@
 ## 💡 **GitHub Badges & Stats** 🔥
 
 ![Followers](https://img.shields.io/github/followers/danielsantiagov?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/danielsantiagov?label=Stars&style=social)
-![Commits](https://img.shields.io/github/commit-activity/y/danielsantiagov?label=Commits&color=orange)
-![Repos](https://img.shields.io/badge/Public_Repos-30-green?style=flat-square&logo=github)
+![Repos](https://img.shields.io/badge/Public_Repos-11-green?style=flat-square&logo=github)
 
 ---
 
