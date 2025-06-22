@@ -195,8 +195,5 @@
 
 ---
 <p align="center">
-  <video width="500" height="350" controls style="border-radius: 10px;">
-    <source src="./hahahaha.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento de video.
-  </video>
+  <img src="./hahahaha.gif" width="500" height="350" style="border-radius: 10px;" alt="Daniel Santiago GIF" />
 </p>
